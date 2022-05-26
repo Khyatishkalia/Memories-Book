@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background-color: aqua;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*{
+  box-sizing:border-box;
+}
+html{
+  font-family: -apple-system, BlinkMacSystemFont;
+}
